@@ -1,0 +1,10 @@
+Quiz application - Enables the user to answer 7 different questions, and gets Summary at the end. 
+Used react concepts:
+	components
+	useEffect and useState
+	useCallback
+	dynamically setting class names
+	timers and intervals with setTimeout and setInterval
+	clean up functions for timeout and interval
+	useRef for storing and persisting same data throught rerenders
+	key prop for resetting child components
