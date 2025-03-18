@@ -1,0 +1,6 @@
+
+adding logic to make the app able to show component after all the quesetions are exausted
+
+derived state quizIsComplete
+if quizIsComplete => show component
+

@@ -1,0 +1,11 @@
+redundant state;
+activeQuestionIndex can be derived from userAnswers
+
+imported QUESTIONS
+
+map the questions as buttons in ul => li => button
+added styling
+function onClick handleSelectAnswer: log of user answers
+
+result: user can click answers, quesetions get changed, and at the end the application crashes
+

@@ -1,0 +1,10 @@
+
+created the Header component to output the logo and some text
+
+created the Quiz component witch sets the states for resolving the problem
+
+state: array of userAnswers; witch should be used for log of user answers
+state: activeQuestionIndex; witch should be used for displaying the question from imported QUESTIONS
+
+*this setup will be changed in the next sections
+
